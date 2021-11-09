@@ -2,7 +2,7 @@
  box-sizing: border-box;
 }
 
-#header{
+#header,#end{
     font-size: 32px;
 }
 /* 2 mat cua the dap an */

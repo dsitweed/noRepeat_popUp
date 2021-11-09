@@ -83,7 +83,7 @@ class Random extends Component {
     const run = this.state.index;//return number of ques
     const runImage = this.makeImage();//return 4 number of imgSrc
     if (this.state.end === 1) {
-      return <div>end</div>;
+      return <div id="end">END</div>;
     }
     return (
       <div>
